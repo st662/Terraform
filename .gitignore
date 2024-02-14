@@ -1,5 +1,3 @@
-0-web-server/.terraform
-0-web-server/terraform*
-
-1-example/.terraform
-1-example/terraform*
+# Ignore .terraform directories and terraform* files across all sub-folders
+**/.terraform
+**/terraform*
