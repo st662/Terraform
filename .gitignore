@@ -1,3 +1,5 @@
 # Ignore .terraform directories and terraform* files across all sub-folders
 **/.terraform
 **/terraform*
+
+**/db-creds.yml
