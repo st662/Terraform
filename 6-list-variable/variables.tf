@@ -1,5 +1,6 @@
 variable users {
     type = list
+    default = ["sachin", "dhoni", "sehwag"]
 }
 
 variable username {
